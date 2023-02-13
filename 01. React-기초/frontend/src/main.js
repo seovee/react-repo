@@ -1,3 +1,6 @@
-import './utils/supportJavaScript.js';
+// import './utils/supportJavaScript.js';
+// import './learn/vanilla.script.js';
+// import './learn/likereact.script.js';
+import './learn/react.script.js';
 
-console.log('React 개발 시작하기! 😊');
+
