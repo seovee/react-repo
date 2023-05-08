@@ -9,3 +9,4 @@
 - [x] 3. 시간 변환기 + flip사용(disable 이용)
 - [X] 4. 
 - [X] 5. CRA 다루기(CRA기초, propTypes, module.css)
+- [x] 6. useEffect, Cleanup
