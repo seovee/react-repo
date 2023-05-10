@@ -10,3 +10,4 @@
 - [X] 4. 
 - [X] 5. CRA 다루기(CRA기초, propTypes, module.css)
 - [x] 6. useEffect, Cleanup
+- [x] 7. todo리스트 만들기 / 
